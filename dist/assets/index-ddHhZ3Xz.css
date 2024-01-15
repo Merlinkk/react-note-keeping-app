@@ -1,0 +1,1 @@
+*{padding:0;margin:0}body{background-color:#3867d6}.container{display:flex;width:90vw;height:100vh}.input,.output{margin:20px;width:50%}.input-text{outline:none;border:3px solid black;height:60%;width:100%;background:none}.output-text{color:#fff;height:70%;width:90%;background-color:#464646}.input-text,.output-text{padding:10px;font-size:20px}h3{color:#fff;margin:10px}
